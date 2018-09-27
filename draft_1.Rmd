@@ -1,0 +1,11 @@
+---
+title: "Visualization_ggplot_1"
+author: "Annie Yu"
+date: "9/27/2018"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
